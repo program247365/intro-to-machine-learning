@@ -1,7 +1,7 @@
 {
-  "name": "devtricks-something",
+  "name": "Intro to Machine Learning Presentation",
   "version": "0.0.0",
-  "description": "Presentation for devtricks",
+  "description": "Presentation on ML.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
