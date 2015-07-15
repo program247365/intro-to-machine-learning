@@ -1,5 +1,5 @@
 {
-  "name": "Intro to Machine Learning Presentation",
+  "name": "Intro-to-Machine-Learning-Presentation",
   "version": "0.0.0",
   "description": "Presentation on ML.",
   "main": "index.html",
@@ -11,5 +11,8 @@
   "devDependencies": {
     "browser-sync": "^2.2.1",
     "gulp": "^3.8.11"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0"
   }
 }
